@@ -1,0 +1,11 @@
+{
+  "name": "JesperResume",
+  "version": "1.0.0",
+  "description": "Jesper Hansen's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesper Hansen",
+  "license": "ISC"
+}
